@@ -1,2 +1,3 @@
 # hello-world
 Making repo for assignment...
+This is an Edit I'm doing for a class :) my name is Christian.
